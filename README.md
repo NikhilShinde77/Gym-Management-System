@@ -1,4 +1,4 @@
-# Gym-Management-System
+
 # Gym Management System
 
 ## Project Overview
