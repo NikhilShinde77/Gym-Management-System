@@ -157,6 +157,7 @@ npm start
 ## Author
 
 **Shinde Nikhil**
+**Chirag Prajapati**
 
-MCA Student
+Msc(ca & it) Student
 Gym Management System Project
