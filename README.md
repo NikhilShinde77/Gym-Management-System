@@ -158,6 +158,7 @@ npm start
 
 **Shinde Nikhil**
 **Aryan Patel**
+**aryan patel**
 
 MCA Student
 Gym Management System Project
